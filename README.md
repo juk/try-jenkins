@@ -1,2 +1,2 @@
 # try-jenkins
-learning Jenkins
+I'm learning Jenkins
